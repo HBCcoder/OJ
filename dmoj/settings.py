@@ -30,8 +30,8 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 SITE_ID = 1
-SITE_NAME = 'LQDOJ'
-SITE_LONG_NAME = 'LQDOJ: Le Quy Don Online Judge'
+SITE_NAME = 'HBCcoder'
+SITE_LONG_NAME = 'HBCcoder: Huynh Ba Chanh Online Judge'
 SITE_ADMIN_EMAIL = False
 
 DMOJ_REQUIRE_STAFF_2FA = True
